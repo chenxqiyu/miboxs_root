@@ -95,6 +95,8 @@ root流程
         fastboot flash vendor F:\down\player6\miboxs_a9_3933\vendor_3933.img
 
 ```
+<img width="1468" height="898" alt="image" src="https://github.com/user-attachments/assets/3cfbb6ae-6b35-4dad-96c8-5c9a070d4306" />
+
 
 这样就具有临时root+硬件能力播放正常的miboxs了
 
