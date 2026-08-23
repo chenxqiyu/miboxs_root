@@ -69,7 +69,7 @@ https://android.googleapis.com/packages/ota-api/package/05be380dea3b2891a1fd3df9
 
 ```
 
-需配合USB_Burning_Tool刷Android8.img最低版本后升上去
+需配合USB_Burning_Tool刷Xiaomi Mi Box S (MDZ-22-AB)Android 8.img最低版本后升上去
 
 root流程
     home+返回长按接电源进入recovery
