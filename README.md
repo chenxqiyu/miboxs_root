@@ -72,9 +72,11 @@ root流程
     home+返回长按接电源进入recovery
     通过刷update_miboxs_r3131_userdebug.zip
     adb root获取root
-    live_setup.sh
-        magisk
-
+    root文件push /data/local/tmp
+    chmod a+x live_setup.sh
+    ./live_setup.sh
+    重启后每次开机都需要操作一篇获取root
+    
     adb reboot fastboot
         安装驱动https://github.com/pbatard/libwdi/releases/#release-b755
 
